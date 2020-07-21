@@ -1,0 +1,19 @@
+name: Flying
+version: "1.0"
+main: me.DarthChungo.Flying.Flying
+description: "Fly whenever you want!"
+api-version: "1.15"
+load: STARTUP
+author: "DarthChungo"
+
+commands:
+  fly:
+    description: "Fly away!"
+    usage: "/<command>"
+    permission: fly
+    permission-message: "§cYou dont have permission to use this command."
+
+permissions:
+  fly:
+    description: "Allows you to use the /fly command"
+    default: true
