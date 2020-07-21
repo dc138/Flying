@@ -1,3 +1,11 @@
+/*
+   Flying plugin by DarthChungo
+
+   MIT License
+   Copyright (c) 2020 Antonio de Haro
+
+*/
+
 package me.DarthChungo.Flying;
 
 import org.bukkit.ChatColor;

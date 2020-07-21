@@ -1,3 +1,10 @@
+#
+# Flying plugin by DarthChungo
+#
+# MIT License
+# Copyright (c) 2020 Antonio de Haro
+#
+
 name: Flying
 version: "1.0"
 main: me.DarthChungo.Flying.Flying
