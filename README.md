@@ -1,13 +1,13 @@
 # Flying
 
-A simple minecraft plugin that allows you **infinitely fly** without an **elytra**.
+A minecraft spigot plugin that allows you infinitely fly without an elytra for fun.
 
 ## Features
 
-This plugin allows players to use the **/fly** command that takes no arguments and sets the player
-in a elytra flying like state that does not revert when the player **hits the ground**. To 
-disable it, simply type the command again.
+This plugin allows players to use the /fly command to enter into flying mode. This will
+mimic having an elytra, but will not reset upon touching the ground, allowing players
+to glide indefinately.
 
 ## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the MIT License.
